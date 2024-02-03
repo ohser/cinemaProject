@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "6574646fb73be69d2c24b148",
+      "permissions": [
+        { "name": "viewSub", "isActive": true },
+        { "name": "createSub", "isActive": true },
+        { "name": "deleteSub", "isActive": false },
+        { "name": "updateSub", "isActive": false },
+        { "name": "viewMovie", "isActive": false },
+        { "name": "createMovie", "isActive": false },
+        { "name": "deleteMovie", "isActive": false },
+        { "name": "updateMovie", "isActive": false }
+      ]
+    }
+  ]
+}
